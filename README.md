@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1SH_sCJqn_KlZDGWWTaIZYaGIXEGSXsGI/view?usp=sharing)
 
-- ⚡ Fun fact **Yes!!! i am pretty sure you will fin me funny :-)**
+- ⚡ Fun fact **Yes!!! i am pretty sure you will definitely find me funny XD **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
