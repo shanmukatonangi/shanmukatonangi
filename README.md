@@ -1,20 +1,25 @@
-<a href="https://shanmukatonangi.github.io/portfolio/"><h1 align="center">Hi 👋, I'm Shanmuka tonangi</h1></a>
+<h1 align="center">Hi 👋, I'm Shanmuka tonangi</h1>
+
 <img  align="centre" alt="Coding" width="100%" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="gif">
-<br>
 <h3 align="center">FULL STACK WEB DEVELOPER</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmukatonangi&label=Profile%20views&color=0e75b6&style=flat" alt="shanmukatonangi" /> </p>
 
-<br>
-<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanmukatonangi" alt="shanmukatonangi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **react,redux**
 
+- 👨‍💻 All of my projects are available at [https://shanmukatonangi.github.io/portfolio/](https://shanmukatonangi.github.io/portfolio/)
+
+- 💬 Ask me about **sorting the algorithms**
+
 - 📫 How to reach me **shanmuka2302@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Dps6qarqJnMQhGRrYvUa6IgVKGavpMIf](https://drive.google.com/drive/folders/1Dps6qarqJnMQhGRrYvUa6IgVKGavpMIf)
+
+- ⚡ Fun fact **Yes!!! i am really funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
