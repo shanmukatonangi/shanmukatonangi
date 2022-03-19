@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shanmuka tonangi</h1>
+<h1 align="center">Hello there👋, I'm Shanmuka tonangi</h1>
 
 <img  align="centre" alt="Coding" width="100%" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="gif">
 <h3 align="center">FULL STACK WEB DEVELOPER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmukatonangi&label=Profile%20views&color=0e75b6&style=flat" alt="shanmukatonangi" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanmukatonangi" alt="shanmukatonangi" /></a> </p>
 
