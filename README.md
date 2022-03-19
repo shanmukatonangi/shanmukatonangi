@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanmuka tonangi</h1>
-<img  align="centre" alt="Coding" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" alt="gif">
+<img  align="centre" alt="Coding" width="100%" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="gif">
 <br>
 <h3 align="center">FULL STACK WEB DEVELOPER</h3>
 
