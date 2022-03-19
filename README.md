@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **react,redux**
 
-- 👨‍💻 All of my projects are available at [https://shanmukatonangi.github.io/portfolio/](https://shanmukatonangi.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://shanmukatonangi.github.io/portfolio/)
 
 - 💬 Ask me about **sorting the algorithms**
 
 - 📫 How to reach me **shanmuka2302@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Dps6qarqJnMQhGRrYvUa6IgVKGavpMIf](https://drive.google.com/drive/folders/1Dps6qarqJnMQhGRrYvUa6IgVKGavpMIf)
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1SH_sCJqn_KlZDGWWTaIZYaGIXEGSXsGI/view?usp=sharing)
 
-- ⚡ Fun fact **Yes!!! i am really funny**
+- ⚡ Fun fact **Yes!!! i am pretty sure you will fin me funny :-)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
